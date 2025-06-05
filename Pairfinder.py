@@ -38,6 +38,8 @@ else:
 
 if ndef_protein == 0:
     print("This sequence is straight-up nonsense. No valid bases found. 🤡")
+elif def_protein == 0:
+    print("Way to go Champ!")
 elif (def_protein / ndef_protein) >= 1:
     print("Immediate DNA cleavage is recommended 🔪🧬")
 else:
