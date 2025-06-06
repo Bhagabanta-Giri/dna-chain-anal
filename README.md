@@ -10,6 +10,7 @@
   <li><b>Flags illegal characters</b> (aka toxic relationships).</li>
   <li><b>Diagnoses your DNA</b>: tells if it’s healthy or full of drama.</li>
 </ol>
+-------------------------------------------------------------------------------------------------
 
 ## PCR
 ### 🔬 What is this?
@@ -35,3 +36,4 @@ No pipettes. No gloves. Just code.
 - 🔁 **Multi-cycle PCR simulation** (repeat your cloning like a pro)  
 - 🧠 **Time estimator** for how long the PCR takes  
 - 🔥 **Built with core Python** — no fancy dependencies, just raw logic
+-------------------------------------------------------------------------------------------------
