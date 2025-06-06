@@ -2,7 +2,7 @@
 <h1>DNA Chain Analysis</h1>
 
 ## Pairfinder
-### 💡 Features of <id = spl>Pairfinder</id>
+### 💡 Features of Pairfinder
 
 <ol>
   <li><b>Matches A↔T, G↔C</b> — the OG couples.</li>
@@ -27,7 +27,7 @@ No pipettes. No gloves. Just code.
 
 ---
 
-### 💡 Features of <id = spl>PCR</id>
+### 💡 Features of PCR
 
 - 🧪 **Random DNA generator** (25 bases long, includes possible defects)  
 - 🧫 **Defect-check loop** (retries until DNA is good enough)  
